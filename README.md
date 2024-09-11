@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como RED-TEAM
 - 🌱 Estou estudando mobile (android)
-- 🌱 4° perido de defesa cibernetica
+- 🌱 5° perido de defesa cibernetica
 <div>    
 <a href="httpsgithub.com/eijiabe">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eijiabe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true/">
